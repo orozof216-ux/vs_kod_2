@@ -17,3 +17,6 @@ delete_student(2)
 print("После изменений:")
 for s in get_students():
     print(s)
+
+
+    
